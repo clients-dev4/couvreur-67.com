@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://couvreur-67.com/sitemap.xml
